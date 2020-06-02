@@ -1,0 +1,11 @@
+c:\users\acer\documents\visual studio 2012\Projects\Spline3\Spline3\bin\Debug\Spline3.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Spline3\Spline3\obj\Debug\Spline3.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\Spline3\Spline3\obj\Debug\Spline3.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\Spline3\Spline3\obj\Debug\Spline3.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\Spline3\Spline3\bin\Debug\Spline3.exe
+c:\users\acer\documents\visual studio 2012\Projects\Spline3\Spline3\bin\Debug\Spline3.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Spline3\Spline3\obj\Debug\Spline3.exe
+c:\users\acer\documents\visual studio 2012\Projects\Spline3\Spline3\obj\Debug\Spline3.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Spline3\Spline3\obj\Debug\Spline3.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\Spline3\Spline3\obj\Debug\Spline3.Form2.resources
+c:\users\acer\documents\visual studio 2012\Projects\Spline3\Spline3\bin\Debug\ZedGraph.dll
